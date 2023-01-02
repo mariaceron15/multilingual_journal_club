@@ -17,3 +17,5 @@ The point of this activity is to offer and accept critique of our language and c
 # Resources
 The Science of Scientific Writing:
 https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing
+
+Ryan's favorite website to see natural one-to-one translations between languages (using examples in context helps you decide whether a given translation is correct, as opposed to blindly trusting an AI translator): www.linguee.com
