@@ -1,0 +1,1 @@
+In 2009, an article was published in the journal <em>American Scientist</em> by George D. Gopen and Judith A. Swan. Titled 'The Science of Scientific Writing', it layed out a framework for scientific writing that is still incredibly useful.
