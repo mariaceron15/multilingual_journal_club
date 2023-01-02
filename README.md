@@ -12,6 +12,8 @@ Participation is hoped to:
 
 Currently, the repo is organized such that every week has its own top-level, numbered directory. A readme in this directory should point us to the week's article. Summaries are organized in sub-directories for each target language. Additional files may be added for summary thoughts from each group, pointing out important concepts that they note based on their corrections and discussion.
 
+The point of this activity is to offer and accept critique of our language and communication skills. Please do not be afraid to make mistakes, and try not to be offended when critiques are offered! Be friendly, everyone! Also, keep in mind the various purposes of different language styles - 'misuse' of language can sometimes lead to misunderstanding of content, but often, there are arbitrary rules that do not contribute to ambiguity. Try to work together to understand not only what is correct, but why - that will lead to a more solid understanding of language.
+
 # Resources
 The Science of Scientific Writing:
 https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing
