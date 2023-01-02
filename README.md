@@ -8,7 +8,7 @@ Participation is hoped to:
 1) foster a sense of community
 2) provide a forum to discuss the latest science
 3) improve our language and communication skills
-4) get us used to version control etc. with GitHub!
+4) familiarize us with version control and collaboration on GitHub!
 
 Currently, the repo is organized such that every week has its own top-level, numbered directory. A readme in this directory should point us to the week's article. Summaries are organized in sub-directories for each target language. Additional files may be added for summary thoughts from each group, pointing out important concepts that they note based on their corrections and discussion.
 
