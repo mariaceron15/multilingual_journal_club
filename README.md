@@ -10,6 +10,8 @@ Participation is hoped to:
 3) improve our language and communication skills
 4) get us used to version control etc. with GitHub!
 
+Currently, the repo is organized such that every week has its own top-level, numbered directory. A readme in this directory should point us to the week's article. Summaries are organized in sub-directories for each target language. Additional files may be added for summary thoughts from each group, pointing out important concepts that they note based on their corrections and discussion.
+
 # Resources
 The Science of Scientific Writing:
 https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing
