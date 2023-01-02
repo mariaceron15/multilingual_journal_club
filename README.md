@@ -1,4 +1,4 @@
-# The Multilingual Journal Club
+## The Multilingual Journal Club
 
 All participants in the club read the same peer-reviewed article every week. We then write a summary of the article, targeted to a public audience, in whatever language we are trying to learn and improve. This could be a second language, or could simply be in our primary language as a way to improve our communication skills. It could even include other media such as artistic renderings. 
 
@@ -9,3 +9,7 @@ Participation is hoped to:
 2) provide a forum to discuss the latest science
 3) improve our language and communication skills
 4) get us used to version control etc. with GitHub!
+
+# Resources
+The Science of Scientific Writing:
+https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing
