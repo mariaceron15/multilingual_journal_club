@@ -1,6 +1,6 @@
 # The Multilingual Journal Club
 
-All participants in the club read the same peer-reviewed article every unit (maybe every week?). We then write a summary of the article, targeted to a public audience, in whatever language we are trying to learn and improve. This could be a second language, or could simply be in our primary language as a way to improve our communication skills. It could even include other media such as artistic renderings. Some weeks may involve alternate writing prompts that are not article reviews.
+All participants in the club read the same peer-reviewed article every unit (maybe every week?). We then write a summary of the article, targeted to a public audience, in whatever language we are trying to learn and improve. This could be a second language, or could simply be in our primary language as a way to improve our communication skills. It could even include other media such as artistic renderings. Some units may involve alternate writing prompts that are not article reviews.
 
 Participation is hoped to:
 1) foster a sense of community
