@@ -24,6 +24,7 @@ The point of this activity is to offer and accept critique of our language and c
 
 ## Instructions
 Send [rmcminds](https://github.com/rmcminds) a message to get added to the group! 
+____
 
 To submit a writing: 
 - choose a unit and read the prompt
@@ -36,10 +37,12 @@ _if yours is the first work in your target language, you can create a new subdir
 - Click 'commit new file' when you are done
 
 _This may automatically prompt you to create a new 'branch' of the repository, which is essentially a copy of it that has proposed changes (like a new file). You may then submit a 'pull request' to ask for permission to merge your changes into the main branch - or, you may choose to have a partner collaborate with you directly on the new branch._
+____
 
 To provide feedback on someone else's work, please directly edit their file by navigating to it in the browser and clicking the pencil-shaped 'edit' button. Your changes will need to be 'committed' in the same way as new-file creation - you will have to commit your changes to a branch other than 'main', and then create a pull request if you want to merge your changes into the main branch.
 
 When creating pull requests, you have the option to 'assign' the request to someone - if you do this, they will get a notification and can review your changes, approve the request, and complete the merge. The main branch will then have the updated version of the writing, and you can use the compare tool to see the differences between the old version and the new one.
+____
 
 Don't be afraid to make mistakes with with version control system on GitHub. Learning requires boldness, and the main branch has some protection - it needs two individuals to agree to a change before it can be made. And if something disastrous happens, we can always roll back to an old version! That's the beauty of git.
 
