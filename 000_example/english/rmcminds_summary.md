@@ -1,1 +1,1 @@
-In 1990, an article was published in the journal <em>American Scientist</em> by George D. Gopen and Judith A. Swan. Titled 'The Science of Scientific Writing', it laid out a framework for scientific writing that is still incredibly useful.
+In 1990, an article was published in the journal *American Scientist* by George D. Gopen and Judith A. Swan. Titled 'The Science of Scientific Writing', it laid out a framework for scientific writing that is still incredibly useful.
