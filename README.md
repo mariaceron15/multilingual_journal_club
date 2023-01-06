@@ -54,3 +54,5 @@ _again, if these version-control complications are too confusing, feel free to p
 - [The Science of Scientific Writing](https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing)
 
 - www.linguee.com - Ryan's favorite website to see natural one-to-one translations between languages (using examples in context helps you decide whether a given translation is correct, as opposed to blindly trusting an AI translator)
+
+- [GitHub for non-programmers](https://github.com/tvanantwerp/github-for-non-programmers)
