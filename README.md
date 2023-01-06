@@ -55,4 +55,6 @@ _again, if these version-control complications are too confusing, feel free to p
 
 - www.linguee.com - Ryan's favorite website to see natural one-to-one translations between languages (using examples in context helps you decide whether a given translation is correct, as opposed to blindly trusting an AI translator)
 
-- [GitHub for non-programmers](https://github.com/tvanantwerp/github-for-non-programmers)
+- [Markdown guide](https://www.markdownguide.org/basic-syntax/) to wean you off of proprietary and overcomplicated Word or Google Docs (this README is written in markdown)
+
+- [GitHub for scientists](https://osf.io/preprints/metaarxiv/x3p2q/), a guide to using GitHub for non-code projects in science (like even collaborating on manuscripts!)
