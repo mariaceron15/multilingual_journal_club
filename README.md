@@ -37,7 +37,7 @@ To submit a writing:
 - click 'add file', then 'create new file'
 - enter your writing
 
-*if yours is the first work in your target language, you can create a new subdirectory such as 'français' by typing 'français/your_file_name.txt' in the 'Name your file...' box.*
+*if yours is the first work in your target language, you can create a new subdirectory such as* `français` *by typing* `français/your_file_name.txt` *in the* `Name your file...` *box.*
 
 - Click 'commit new file' when you are done
 
