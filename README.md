@@ -34,12 +34,12 @@ Send [rmcminds](https://github.com/rmcminds) a message to get added to the group
 To submit a writing: 
 - choose a unit and read the prompt
 - navigate in the browser to the target language directory within that unit (e.g. `multilingual_journal_club/000_example/english/`)
-- click 'add file', then 'create new file'
+- click `add file`, then `create new file`
 - enter your writing
 
 *if yours is the first work in your target language, you can create a new subdirectory such as* `français` *by typing* `français/your_file_name.txt` *in the* `Name your file...` *box.*
 
-- Click 'commit new file' when you are done
+- Click `commit new file` when you are done
 
 *This may automatically prompt you to create a new 'branch' of the repository, which is essentially a copy of it that has proposed changes (like a new file). You may then submit a 'pull request' to ask for permission to merge your changes into the main branch - or, you may choose to have a partner collaborate with you directly on the new branch.*
 
