@@ -27,19 +27,19 @@ Note: *this repo enables asynchronous participation, as well - just pick a unit,
 The point of this activity is to offer and accept critique of our language and communication skills. Please do not be afraid to make mistakes, and try not to be offended when critiques are offered! Be friendly, everyone! Also, keep in mind the various purposes of different language styles - 'misuse' of language can sometimes lead to misunderstanding of content, but often, there are arbitrary rules that do not contribute to ambiguity. Try to work together to understand not only what is correct, but why. That will lead to a more solid understanding of language.
 
 ## Instructions
-Send [rmcminds](https://github.com/rmcminds) a message to get added to the group!
+:envelope: Send [rmcminds](https://github.com/rmcminds) a message to get added to the group!
 
 ---
 
 To submit a writing: 
-- choose a unit and read the prompt
-- navigate in the browser to the target language directory within that unit (e.g. `multilingual_journal_club/000_example/english/`)
-- click `add file`, then `create new file`
-- enter your writing
+- Choose a unit and read the prompt.
+- Navigate in the browser to the target language directory within that unit (e.g. `multilingual_journal_club/000_example/english/`).
+- Click `add file`, then `create new file`.
+- Enter your writing.
 
 *If yours is the first work in your target language, you can create a new subdirectory such as* `français` *by typing* `français/your_file_name.txt` *in the* `Name your file...` *box.*
 
-- Click `commit new file` when you are done
+- Click `commit new file` when you are done.
 
 *This may automatically prompt you to create a new 'branch' of the repository, which is essentially a copy of it that has proposed changes (like a new file). You may then submit a 'pull request' to ask for permission to merge your changes into the main branch - or, you may choose to have a partner collaborate with you directly on the new branch.*
 
