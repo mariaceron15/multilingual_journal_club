@@ -65,3 +65,5 @@ Feel free to create new Discussions or Issues if you need help with anything!
 - [Markdown guide](https://www.markdownguide.org/basic-syntax/) to wean you off of proprietary and overcomplicated Word or Google Docs (this README is written in markdown)
 
 - [GitHub for scientists](https://osf.io/preprints/metaarxiv/x3p2q/), a guide to using GitHub for non-code projects in science (like even collaborating on manuscripts!)
+
+- https://youtube.com/@DrGeoffLindsey - a fun channel Ryan found that can help understand how sounds differ among languages
